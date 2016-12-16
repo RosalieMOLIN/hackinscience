@@ -1,3 +1,3 @@
-#! /usr/bin/python
+#!/usr/bin/python
 print("42")
 
